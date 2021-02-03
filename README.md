@@ -3,7 +3,7 @@
 👋 &nbsp;Soy Yennifer Tobón
 ======
 
-Soy Ingeniera de Sistemas de la Facultad de Minas de la Universidad Nacional, sede Medellín. Actualmente, he realizado diferentes proyectos con lenguajes JavaScript (Node.js), HTML, CSS, MongoDB, JavaScript (Angular). Soy un desarrolladora Full-Stack de la escula Holberton de [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/).
+Soy Ingeniera de Sistemas de la Facultad de Minas de la Universidad Nacional, sede Medellín, tambien soy una desarrolladora Full-Stack de la escuela Holberton de [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). Actualmente, he realizado diferentes proyectos con lenguajes de programción: JavaScript (Node.js), HTML5, CSS3, MongoDB, JavaScript (Angular). 
 
 Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendizaje y mejora continua. Tengo cualidades de adaptabilidad, sentido de responsabilidad social, alto nivel de colaboración, actitud de trabajo en equipo, me encanta aprender, estudiar y practicar deportes.
 
