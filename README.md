@@ -57,3 +57,16 @@ Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendi
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yennifertobon&" alt="yennifertobon" /></p>
 </details>
+
+<details>
+  <summary>:cancer:&nbsp;&nbsp;&nbsp;<b>Habilidades Personales</b></summary>
+  <br/>
+    <p align="left">
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> Comunicación
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> Trabajo en equipo
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> Adaptabilidad
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> Creatividad
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> Pensamiento Sistematico
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> Analista
+    </p>
+</details>
