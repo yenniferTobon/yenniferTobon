@@ -17,7 +17,7 @@ Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendi
 <br/>
 
 <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Lenguajes de programación y herramientas</b></summary>
+	<summary>:computer:&nbsp;&nbsp;&nbsp;<b>Lenguajes de programación y herramientas</b></summary>
 	<br/>
 	<p align="left">
 		<h5>Lenguajes de programación</h5><hr width=40%  align="left">
@@ -49,7 +49,7 @@ Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendi
 </details>
 
 <details>
-  <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Estadísticas de GitHub</b></summary>
+  <summary>:bar_chart:&nbsp;&nbsp;&nbsp;<b>Estadísticas de GitHub</b></summary>
 	<br/>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yennifertobon&show_icons=true&locale=en&layout=compact" alt="yennifertobon" /></p>
 
