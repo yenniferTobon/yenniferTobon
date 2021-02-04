@@ -3,9 +3,9 @@
 👋 &nbsp;Soy Yennifer Tobón
 ======
 
-Soy Ingeniera de Sistemas de la Facultad de Minas de la Universidad Nacional, sede Medellín, tambien soy una desarrolladora Full-Stack de la escuela Holberton de [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). Actualmente, he realizado diferentes proyectos con lenguajes de programción: JavaScript (Node.js), HTML5, CSS3, MongoDB, JavaScript (Angular). 
+Una Ingeniera de Sistemas de la Facultad de Minas de la Universidad Nacional, sede Medellín, y una desarrolladora Full-Stack de la escuela Holberton de [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). Durante mis estudios y vida laboral, he realizado diferentes proyectos con lenguajes de programción: JavaScript (Node.js), HTML5, CSS3, MongoDB, JavaScript (Angular). 
 
-Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendizaje y mejora continua. Tengo cualidades de adaptabilidad, sentido de responsabilidad social, alto nivel de colaboración, actitud de trabajo en equipo, me encanta aprender, estudiar y practicar deportes.
+Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendizaje y mejora continua. Tengo cualidades de adaptabilidad, sentido de responsabilidad social, alto nivel de colaboración, actitud de trabajo en equipo, me encanta aprender, estudiar y practicar deportes. Soy una persona que le apasionan los retos y los cambios. 
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
@@ -15,6 +15,35 @@ Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendi
 <a href="https://instagram.com/yenntobon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yenntobon" height="30" width="40" /></a>
 </p>
 <br/>
+
+<details>
+	<summary>:cancer:&nbsp;&nbsp;&nbsp;<b>Habilidades Personales</b></summary>
+	<br/>
+	<p align="left">
+		<table  FRAME="none" RULES="none">
+			<tr>
+				<td><img src="https://cdn2.iconfinder.com/data/icons/teacher-outline/512/N_F009_08_TeacherArtboard_1_copy_3-512.png" alt="comuniacion" width="40" height="40"/></td>
+				<td><h5>Comunicación</h5></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn2.iconfinder.com/data/icons/entrepreneur-solid-high-risk-high-return/512/Teamwork-512.png" alt="TrabajoEquipo" width="40" height="40"/></td>
+				<td><h5>Trabajo en equipo</h5></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn3.iconfinder.com/data/icons/e-learning-outline-distance-education/512/E-learning_flexible_place-512.png" alt="adaptabilidad" width="40" height="40"/></td>
+				<td><h5>Adaptabilidad</h5></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Brainstorm-512.png" alt="creatividad" width="40" height="40"/></td>
+				<td><h5>Creatividad</h5></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn2.iconfinder.com/data/icons/knowledge-education-outline/512/N_F009_09_TalkingArtboard_1-512.png" alt="PensamientoSistemativo" width="40" height="40"/></td>
+				<td><h5>Pensamiento Sistematico</h5></td>
+			</tr>
+		</table>
+	</p>
+</details>
 
 <details>
 	<summary>:computer:&nbsp;&nbsp;&nbsp;<b>Lenguajes de programación y herramientas</b></summary>
@@ -56,33 +85,4 @@ Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendi
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yennifertobon&show_icons=true&locale=en" alt="yennifertobon" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yennifertobon&" alt="yennifertobon" /></p>
-</details>
-
-<details>
-	<summary>:cancer:&nbsp;&nbsp;&nbsp;<b>Habilidades Personales</b></summary>
-	<br/>
-	<p align="left">
-		<table style="border: hidden">
-			<tr>
-				<td><img src="https://cdn2.iconfinder.com/data/icons/teacher-outline/512/N_F009_08_TeacherArtboard_1_copy_3-512.png" alt="comuniacion" width="40" height="40"/></td>
-				<td><h5>Comunicación</h5></td>
-			</tr>
-			<tr>
-				<td><img src="https://cdn2.iconfinder.com/data/icons/entrepreneur-solid-high-risk-high-return/512/Teamwork-512.png" alt="TrabajoEquipo" width="40" height="40"/></td>
-				<td><h5>Trabajo en equipo</h5></td>
-			</tr>
-			<tr>
-				<td><img src="https://cdn3.iconfinder.com/data/icons/e-learning-outline-distance-education/512/E-learning_flexible_place-512.png" alt="adaptabilidad" width="40" height="40"/></td>
-				<td><h5>Adaptabilidad</h5></td>
-			</tr>
-			<tr>
-				<td><img src="https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Brainstorm-512.png" alt="creatividad" width="40" height="40"/></td>
-				<td><h5>Creatividad</h5></td>
-			</tr>
-			<tr>
-				<td><img src="https://cdn2.iconfinder.com/data/icons/knowledge-education-outline/512/N_F009_09_TalkingArtboard_1-512.png" alt="PensamientoSistemativo" width="40" height="40"/></td>
-				<td><h5>Pensamiento Sistematico</h5></td>
-			</tr>
-		</table>
-	</p>
 </details>
