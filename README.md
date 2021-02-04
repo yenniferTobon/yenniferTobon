@@ -59,15 +59,30 @@ Me presento como una profesional dinámica y vivaz, con un gran deseo de aprendi
 </details>
 
 <details>
-  <summary>:cancer:&nbsp;&nbsp;&nbsp;<b>Habilidades Personales</b></summary>
-  <br/>
-    <p align="left">
-    	<img src="https://cdn2.iconfinder.com/data/icons/teacher-outline/512/N_F009_08_TeacherArtboard_1_copy_3-512.png" alt="comuniacion" width="40" height="40"/> <h5>Comunicación</h5>
-	<img src="https://cdn2.iconfinder.com/data/icons/entrepreneur-solid-high-risk-high-return/512/Teamwork-512.png" alt="TrabajoEquipo" width="40" height="40"/><h5>Trabajo en equipo</h5>
-	<img src="https://cdn3.iconfinder.com/data/icons/e-learning-outline-distance-education/512/E-learning_flexible_place-512.png" alt="adaptabilidad" width="40" height="40"/><h5>Adaptabilidad</h5></p>
+	<summary>:cancer:&nbsp;&nbsp;&nbsp;<b>Habilidades Personales</b></summary>
 	<br/>
 	<p align="left">
-	<img src="https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Brainstorm-512.png" alt="creatividad" width="40" height="40"/><h5>Creatividad</h5>
-	<br/>
-	<img src="https://cdn2.iconfinder.com/data/icons/knowledge-education-outline/512/N_F009_09_TalkingArtboard_1-512.png" alt="PensamientoSistemativo" width="40" height="40"/><h5>Pensamiento Sistematico</h5></p>
+		<table style="border: hidden">
+			<tr>
+				<td><img src="https://cdn2.iconfinder.com/data/icons/teacher-outline/512/N_F009_08_TeacherArtboard_1_copy_3-512.png" alt="comuniacion" width="40" height="40"/></td>
+				<td><h5>Comunicación</h5></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn2.iconfinder.com/data/icons/entrepreneur-solid-high-risk-high-return/512/Teamwork-512.png" alt="TrabajoEquipo" width="40" height="40"/></td>
+				<td><h5>Trabajo en equipo</h5></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn3.iconfinder.com/data/icons/e-learning-outline-distance-education/512/E-learning_flexible_place-512.png" alt="adaptabilidad" width="40" height="40"/></td>
+				<td><h5>Adaptabilidad</h5></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Brainstorm-512.png" alt="creatividad" width="40" height="40"/></td>
+				<td><h5>Creatividad</h5></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn2.iconfinder.com/data/icons/knowledge-education-outline/512/N_F009_09_TalkingArtboard_1-512.png" alt="PensamientoSistemativo" width="40" height="40"/></td>
+				<td><h5>Pensamiento Sistematico</h5></td>
+			</tr>
+		</table>
+	</p>
 </details>
